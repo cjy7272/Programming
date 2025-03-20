@@ -1,3 +1,7 @@
+//202511828 최주영 
+//2025.3.20
+//이름, 나이, 인사말을 입력받고 출력하는 프로그램
+
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
