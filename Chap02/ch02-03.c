@@ -17,16 +17,16 @@ int main()
 
 void score(void)
 {
-	int number;
+	int num;
 	float mark;
 	
 	printf("번호?");
-	scanf("%d", &number);
+	scanf("%d", &num);
 	
 	printf("학점?");
 	scanf("%f", &mark);
 	
-	printf("%d번 학생의 학점은 %f입니다.", number, mark);
+	printf("%d번 학생의 학점은 %f입니다.", num, mark);
 
 	return ;
 }
