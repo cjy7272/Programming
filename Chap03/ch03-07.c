@@ -6,16 +6,16 @@
 
 #include <stdio.h>
 
-void asgmt10(void);
+void asgmt0310(void);
 
 int main()
 {
-	asgmt10();
+	asgmt0310();
 
 	return 0;
 }
 
-void asgmt10(void)
+void asgmt0310(void)
 {
 	float dollar = 0;
 	float exchange_rate = 0;

@@ -34,7 +34,8 @@ int asgmt0401(void)
 
 double getMotionEnergy(double m, double v)
 {
-	double Ev = 0.0;
+
+	double Ev = 0.0;		
 
 	Ev = 0.5 * m * v * v;
 
