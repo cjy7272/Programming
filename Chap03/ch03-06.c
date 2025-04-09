@@ -6,16 +6,16 @@
 
 #include <stdio.h>
 
-void asgmt07(void);
+void asgmt0307(void);
 
 int main()
 {
-	asgmt07();
+	asgmt0307();
 
 	return 0;
 }
 
-void asgmt07(void)
+void asgmt0307(void)
 {
 	float area = 0;
 

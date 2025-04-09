@@ -6,16 +6,16 @@
 
 #include <stdio.h>
 
-void asgmt02(void);
+void asgmt0302(void);
 
 int main()
 {
-	asgmt02();
+	asgmt0302();
 
 	return 0;
 }
 
-void asgmt02(void)
+void asgmt0302(void)
 {
 	int x = 0;
 	int y = 0;

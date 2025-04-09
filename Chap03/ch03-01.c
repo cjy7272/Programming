@@ -6,11 +6,11 @@
 
 #include <stdio.h>
 
-void asgmt01(void);
+void asgmt0301(void);
 
 int main()
 {
-	asgmt01();
+	asgmt0301();
 
 	return 0;
 }
