@@ -10,7 +10,7 @@
 
 int asgmt0405();
 
-double volume(double r , double h);
+double volume(int r , int h);
 
 int main()
 {
@@ -43,7 +43,7 @@ int asgmt0405()
 	return 0;
 }
 
-double volume(double r, double h)
+double volume(int r, int h)
 {
 	//원기둥의 부피를 저장할 변수를 선언하고 초기화
 	double v = 0.0;
