@@ -40,5 +40,5 @@ void asgmt0409()
 	//시간을 출력한다
 	printf("%d시간 %d분 %d초입니다.", h, m, s);
 
-	return 0;
+	return ;
 }

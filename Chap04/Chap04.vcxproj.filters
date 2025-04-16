@@ -42,13 +42,19 @@
     <ClCompile Include="ch04-09.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ch04-15.c">
+    <ClCompile Include="ch04-10.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ch04-16.c">
+    <ClCompile Include="ch04-11.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ch04-17.c">
+    <ClCompile Include="ch04-12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch04-13.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch04-14.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

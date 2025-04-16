@@ -13,7 +13,6 @@ int main()
 	//함수 asgmt0415를 호출한다
 	asgmt0415();
 
-	
 	return 0;
 }
 
