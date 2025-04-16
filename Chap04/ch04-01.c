@@ -13,7 +13,7 @@ double getMotionEnergy(double m, double v);
 int main()
 {
 	int r = asgmt0401();
-
+	
 	return 0;
 }
 
