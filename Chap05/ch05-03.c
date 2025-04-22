@@ -23,7 +23,7 @@ void asgmt0502()
 
 	//x와 y를 입력받는다
 	printf("점의 좌표 (x, y)?");
-	scanf("%d, %d",&x, &y);
+	scanf("%d %d",&x, &y);
 
 	//중첩된 if를 사용해서 점이 어느 사분면에 있는지 출력한다
 	if (x > 0)
