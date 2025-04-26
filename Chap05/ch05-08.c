@@ -64,6 +64,7 @@ void asgmt0509()
 			cola = cola % cola;
 		}
 	}
+
 	//함수 Calculation를 호출한다
 	Calculation(set, hamburger, french_fries, cola);
 	
@@ -104,4 +105,6 @@ void Calculation(int a, int b, int c, int d)
 
 	printf("-----------------------------------\n");
 	printf("합계                          %5d\n", sum);
+
+	return;
 }
