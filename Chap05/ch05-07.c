@@ -43,16 +43,17 @@ int bitwise_operation(int x, char y, int z)
 	{
 		operation = x & z;
 	}
+	else if (y == '|')
+	{
+		operation = x | z;
+	}	
+	else if (y == '^')
+	{
+		operation = x ^ z;
+	}
 	else
 	{
-		if (y == '|')
-		{
-			operation = x | z;
-		}
-		else
-		{
-			operation = x ^ z;
-		}
-	}	
+		printf("지원하지 않은 연산자 입니다.");
+	}
 	return operation;
 }
