@@ -2,10 +2,10 @@
 #ifndef _CONTACT_H_129847575
 #define _CONTACT_H_129847575
 
-enum gender {MAN, WOMAN};
+enum gender { MAN, WOMAN };
 typedef enum gender EGender;
 
-struct contact 
+struct contact
 {
 	char name[24];
 	char phone[24];

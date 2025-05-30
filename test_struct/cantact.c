@@ -20,10 +20,6 @@ int isEqualContact(Contact a, Contact b)
 
 void printContact(Contact ct)
 {
-	//이름: 000
-	//전번: 0000000000
-	//성별: 남 혹 여
-	//연도: 000
 
 	printf("이름: %s \n", ct.name);
 	printf("전번: %s \n", ct.phone);
@@ -46,10 +42,6 @@ int isEqualContactPtr(const Contact* a, const Contact* b)
 
 void printContactPtr(const Contact* ct)
 {
-	//이름: 000
-	//전번: 0000000000
-	//성별: 남 혹 여
-	//연도: 000
 
 	printf("이름: %s \n", ct->name);
 	printf("전번: %s \n", ct->phone);
