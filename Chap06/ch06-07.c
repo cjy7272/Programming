@@ -14,7 +14,7 @@ void asgmt0619(void);
 
 int main(void)
 {
-	srand((unsigned)time(NULL));
+	
 
 	asgmt0619();
 
